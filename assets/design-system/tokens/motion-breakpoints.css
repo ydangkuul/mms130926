@@ -1,0 +1,13 @@
+:root{
+/* Motion — fast, purposeful, never decorative */
+--duration-fast:120ms; /* @kind other */
+--duration-base:200ms; /* @kind other */
+--duration-slow:320ms; /* @kind other */
+--ease-standard:cubic-bezier(.2,0,0,1); /* @kind other */
+
+/* Breakpoints (reference values — use in @media, custom properties are not valid in media queries) */
+--bp-sm:640px;
+--bp-md:768px;
+--bp-lg:1024px;
+--bp-xl:1280px;
+}

@@ -1,0 +1,35 @@
+:root{
+/* Brand core */
+--color-primary:#0073BF;
+--color-primary-hover:#0D3C7D;
+--color-primary-surface:#BFE0F5;
+--color-primary-tint:#EAF6FD;
+--color-premium:#D7A44C;
+--color-lime:#73BF26;
+
+/* Ink & text */
+--color-ink-900:#1C1D1B;
+--color-text:#373A36;
+--color-text-muted:#696B68;
+--color-text-faint:#8B8D8A;
+--color-text-on-primary:#FFFFFF;
+
+/* Surface & border */
+--color-surface-page:#FFFFFF;
+--color-surface-raised:#F5F5F4;
+--color-surface-dark:#1C1D1B;
+--color-border:#DFDFDF;
+--color-border-subtle:#EDEDED;
+
+/* Semantic — Error is style-guide-defined; success/warning/info extend it (palette-harmonised, flagged) */
+--color-error:#0D3C7D;
+--color-error-surface:#BFE0F5;
+--color-success:#2E7D5B;
+--color-success-surface:#DCEEE4;
+--color-warning:#B27C12;
+--color-warning-surface:#FBEED1;
+--color-info:#2A6F97;
+--color-info-surface:#DCEAF2;
+
+/* Semantic text-on-surface pairing note: error/success/warning/info use "solid" color as both icon+text color, "surface" only as a tint background — never as the sole meaning carrier */
+}

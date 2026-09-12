@@ -1,0 +1,22 @@
+:root{
+/* 4px base unit */
+--space-xs:4px;
+--space-sm:8px;
+--space-md:16px;
+--space-lg:24px;
+--space-xl:32px;
+--space-2xl:48px;
+--space-3xl:64px;
+--space-4xl:96px;
+
+/* Applied rhythm */
+--space-card-padding:24px;
+--space-compact-padding:16px;
+--space-button-padding-y:12px;
+--space-button-padding-x:28px;
+--space-section-gap:48px;
+--space-block-gap:24px;
+--space-related-gap:16px;
+--space-page-margin-desktop:48px;
+--space-page-margin-mobile:16px;
+}
